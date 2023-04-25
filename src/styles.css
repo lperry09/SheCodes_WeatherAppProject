@@ -1,0 +1,102 @@
+body {
+  background-color: #f1e8e6;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  color: #543c52;
+  font-size: 48px;
+  margin: 20px 10px;
+  position: relative;
+}
+h2 {
+  margin: 20px auto;
+}
+
+.current-city {
+  font-family: "handlee";
+  font-size: 38px;
+  color: #ffadaa;
+}
+.container {
+  border-radius: 20px;
+  border: 2px solid #edd2cb;
+  max-width: 50%;
+  min-width: min-content;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+p {
+  font-size: 25px;
+  font-family: "handlee";
+}
+
+hr {
+  border: 2px solid #edd2cb;
+  margin: 10px auto;
+}
+
+.current-temperature {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 48px;
+  margin: auto;
+}
+.today-temperature,
+.col-6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 10px;
+  font-size: 25px;
+}
+
+#current-city-button {
+  background: #ffadaa;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#search-button {
+  background: #543c52;
+  color: #fff;
+  border-radius: 20px;
+}
+
+#search-form {
+  padding: 10px;
+  margin: 0px;
+}
+.icon {
+  font-size: 36px;
+  text-align: center;
+  margin-right: 20px;
+}
+.fa-sun {
+  color: #ffc300;
+}
+
+.fa-cloud-sun-rain {
+  color: #2921a1;
+}
+
+.fa-cloud-showers-heavy {
+  color: #5f5c90;
+}
+
+.fa-cloud-sun {
+  color: #e58746;
+}
+
+.today-icon {
+  font-size: 70px;
+  margin-right: 20px;
+}
+
+#coder {
+  text-align: center;
+  font-size: 15px;
+  color: #ffadaa;
+  font-family: monospace;
+  margin-top: 10px;
+}
