@@ -52,7 +52,7 @@ hr {
 }
 
 #current-city-button {
-  background: #ffadaa;
+  background: #5f5c90;
   color: #fff;
   border-radius: 20px;
 }
@@ -99,4 +99,17 @@ hr {
   color: #ffadaa;
   font-family: monospace;
   margin-top: 10px;
+}
+
+#code-link{
+  text-decoration: none;
+  color: #5f5c90;
+
+}
+
+#code-link:hover {
+  cursor:pointer;
+  text-decoration: underline;
+  color: #ffadaa;
+}
 }
