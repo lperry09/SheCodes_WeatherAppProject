@@ -1,11 +1,11 @@
 body {
-  background-color: #f1e8e6;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/079/332/original/andrea-ferrario-3WgPZbsDSkE-unsplash.jpg?1682724156");
 }
 
 h1 {
   font-family: Georgia, "Times New Roman", Times, serif;
   text-align: center;
-  color: #543c52;
+  color: #5f5c90;
   font-size: 48px;
   margin: 20px 10px;
   position: relative;
@@ -17,7 +17,7 @@ h2 {
 .current-city {
   font-family: "handlee";
   font-size: 38px;
-  color: #ffadaa;
+  color: #5f5c90;
 }
 .container {
   border-radius: 20px;
@@ -58,7 +58,7 @@ hr {
 }
 
 #search-button {
-  background: #543c52;
+  background: #5f5c90;
   color: #fff;
   border-radius: 20px;
 }
